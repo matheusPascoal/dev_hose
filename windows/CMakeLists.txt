@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(homedev LANGUAGES CXX)
+project(dev_house LANGUAGES CXX)
 
-set(BINARY_NAME "homedev")
+set(BINARY_NAME "dev_house")
 
 cmake_policy(SET CMP0063 NEW)
 

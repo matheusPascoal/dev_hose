@@ -1,6 +1,6 @@
 {
-    "name": "homedev",
-    "short_name": "homedev",
+    "name": "dev_house",
+    "short_name": "dev_house",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
